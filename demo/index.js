@@ -1,4 +1,5 @@
 import { PekClient, EarlyTermination } from '../src'
+// import { PekClient, EarlyTermination } from 'pekjs' // uncomment this line to use the npm package
 
 async function main () {
   // connect to the server
